@@ -31,6 +31,16 @@ The main functionalities of the app are:
 
 Demo:
 
+Home screen  
+<img src="https://user-images.githubusercontent.com/29239337/94031301-60a58180-fdc7-11ea-8f4c-3d3100b53357.png" width="150">
+
+Food list  
+<img src="https://user-images.githubusercontent.com/29239337/94031292-5edbbe00-fdc7-11ea-967a-e9d3da33f0c1.png" width="150">
+
+Menu screen  
+
+<img src="https://user-images.githubusercontent.com/29239337/94031291-5edbbe00-fdc7-11ea-8474-17a31993b976.png" width="150">
+
 The cart  
 
 <img src="https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png" width="150">
@@ -62,5 +72,8 @@ The main functionalities of the app are:
 
 Demo: 
 
+Modify product  
+
+<img src="https://user-images.githubusercontent.com/29239337/94031294-5f745480-fdc7-11ea-8ade-00332f3b0981.png" width="150">
 
 
