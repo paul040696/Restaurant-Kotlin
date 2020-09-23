@@ -69,11 +69,20 @@ The main functionalities of the app are:
 - view and filter orders
 - search product functionality
 - modify order status
+- call customer
+- remove order
 
 Demo: 
 
 Modify product  
 
 <img src="https://user-images.githubusercontent.com/29239337/94031294-5f745480-fdc7-11ea-8ade-00332f3b0981.png" width="150">
+
+View and sort orders  
+
+<img src="https://user-images.githubusercontent.com/29239337/94034050-3a351580-fdca-11ea-8950-5563c08765ad.png" width="150">
+
+Manage order  
+<img src="https://user-images.githubusercontent.com/29239337/94034202-6bade100-fdca-11ea-988f-949d426e7933.png" width="150">
 
 
