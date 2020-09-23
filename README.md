@@ -30,7 +30,7 @@ The main functionalities of the app are:
     - repeat order 
 
 Demo:
-![cos_cumparaturi](https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png?raw=true)
+![cos_cumparaturi](https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png =50x50)
 
 
 ## Server app
