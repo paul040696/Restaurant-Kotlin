@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Food Delivery Final</string>
+    <string name="title_activity_home">HomeActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Settings</string>
+
+    <string name="menu_home">Acasă</string>
+    <string name="menu_view_orders">Istoric Comenzi</string>
+    <string name="menu_gallery">Menu</string>
+    <string name="menu_food_detail">Descriere produs</string>
+    <string name="menu_cart">Coș</string>
+    <string name="menu_share">Share</string>
+    <string name="menu_food_list">Listă mâncare</string>
+    <string name="popular_products">Produse populare</string>
+    <string name="best_deals">Oferte</string>
+    <string name="menu_category">Meniu</string>
+    <string name="size">Mărime</string>
+    <string name="add_on">Adaugă extra</string>
+    <string name="action_clear_cart">Golește coș</string>
+    <string name="sign_out">Deconectare</string>
+</resources>

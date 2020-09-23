@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:padding="8dp"
+    android:background="@android:color/white"
+    >
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:fontFamily="@font/brandon_medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/edt_address"
+            android:hint="Introduceți adresa dv"
+            android:fontFamily="@font/brandon_medium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+    <TextView
+        android:id="@+id/txt_address_detail"
+        android:text="Coordonate"
+        android:visibility="gone"
+        android:fontFamily="@font/brandon_medium"
+        android:textSize="16sp"
+        android:textStyle="bold"
+        android:textColor="@android:color/black"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <com.google.android.material.textfield.TextInputLayout
+        android:fontFamily="@font/brandon_medium"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/edt_comment"
+            android:hint="Introduceți detalii suplimentare"
+            android:fontFamily="@font/brandon_medium"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+
+    </com.google.android.material.textfield.TextInputLayout>
+
+
+    <TextView
+        android:text="Metoda de livrare"
+        android:fontFamily="@font/brandon_medium"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/dialog_header_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioButton
+            android:id="@+id/rd_home_address"
+            android:text="Acasă"
+            android:checked="true"
+            android:fontFamily="@font/brandon_medium"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="@color/dialog_text_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:id="@+id/rd_other_address"
+            android:text="Altă adresă"
+            android:checked="false"
+            android:fontFamily="@font/brandon_medium"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="@color/dialog_text_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:id="@+id/rd_ship_this_address"
+            android:text="Livrează la această adresă"
+            android:checked="false"
+            android:fontFamily="@font/brandon_medium"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="@color/dialog_text_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </RadioGroup>
+
+    <TextView
+        android:text="Metoda de plată"
+        android:fontFamily="@font/brandon_medium"
+        android:textSize="22sp"
+        android:textStyle="bold"
+        android:textColor="@color/dialog_header_color"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <RadioGroup
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+        <RadioButton
+            android:id="@+id/rd_cash"
+            android:text="Cash"
+            android:checked="true"
+            android:fontFamily="@font/brandon_medium"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="@color/dialog_text_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+        <RadioButton
+            android:id="@+id/rd_card"
+            android:text="Card"
+            android:checked="true"
+            android:fontFamily="@font/brandon_medium"
+            android:textSize="18sp"
+            android:textStyle="italic"
+            android:textColor="@color/dialog_text_color"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+
+    </RadioGroup>
+
+</LinearLayout>

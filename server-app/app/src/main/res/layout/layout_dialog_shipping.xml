@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@android:color/white"
+    android:paddingLeft="24dp"
+    android:paddingTop="8dp"
+    android:paddingRight="24dp"
+    android:paddingBottom="8dp">
+
+    <TextView
+        android:id="@+id/txt_title"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Actualizează comanda"
+        android:textSize="32sp"
+        android:fontFamily="@font/brandon_medium"
+        android:textColor="@android:color/black"/>
+
+    <TextView
+        android:id="@+id/txt_title_small"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_title"
+        android:text="Modifică starea comenzii"
+        android:textSize="22sp"
+        android:fontFamily="@font/brandon_medium"
+        android:textColor="@android:color/darker_gray"/>
+
+    <TextView
+        android:id="@+id/txt_status"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_title_small"
+        android:text="Stare: Plasată"
+        android:textSize="22sp"
+        android:fontFamily="@font/brandon_medium"
+        android:textColor="@android:color/darker_gray"/>
+
+
+    <RadioGroup
+        android:id="@+id/rdi_group"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/txt_status"
+        android:orientation="vertical">
+
+        <RadioButton
+            android:id="@+id/rdi_shipping"
+            android:text="Se livrează"
+            android:checked="true"
+            android:fontFamily="@font/brandon_medium"
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+        <RadioButton
+            android:id="@+id/rdi_cancelled"
+            android:text="Anulată"
+            android:fontFamily="@font/brandon_medium"
+            android:textColor="@android:color/holo_red_dark"
+            android:textSize="22sp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"/>
+
+    </RadioGroup>
+
+
+    <LinearLayout
+        android:id="@+id/layout_button"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/rdi_group"
+        android:gravity="right"
+        android:orientation="horizontal">
+
+        <Button
+            android:id="@+id/btn_cancel"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:text="Anulează"
+            android:textColor="@android:color/darker_gray"
+            android:background="@android:color/transparent"/>
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:padding="8dp"
+            android:id="@+id/btn_ok"
+            android:text="Confirmă"
+            android:textColor="@android:color/holo_red_dark"
+            android:background="@android:color/transparent"/>
+    </LinearLayout>
+
+
+</RelativeLayout>

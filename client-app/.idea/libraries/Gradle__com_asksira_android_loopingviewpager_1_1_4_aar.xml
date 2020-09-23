@@ -1,0 +1,14 @@
+<component name="libraryTable">
+  <library name="Gradle: com.asksira.android:loopingviewpager:1.1.4@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/727d174fb2958badb121a77ee3cffaea/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/727d174fb2958badb121a77ee3cffaea/res" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.asksira.android/loopingviewpager/1.1.4/faaa4f4c082bb617874169a5e05eff6b8879965c/loopingviewpager-1.1.4-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.asksira.android/loopingviewpager/1.1.4/5b3e7a8f68b619a87f9f5ad8df626af3df4409f0/loopingviewpager-1.1.4-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
