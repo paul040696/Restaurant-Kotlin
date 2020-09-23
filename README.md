@@ -31,22 +31,22 @@ The main functionalities of the app are:
 
 Demo:
 
-The cart
-```
+The cart  
+
 <img src="https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png" width="150">
-```
-Shipping details
-```
+
+Shipping details  
+
 <img src="https://user-images.githubusercontent.com/29239337/94031279-5d11fa80-fdc7-11ea-86c3-f0ade296571f.png" width="150">
-```
-Product description
-```
+
+Product description  
+
 <img src="https://user-images.githubusercontent.com/29239337/94031283-5d11fa80-fdc7-11ea-96f4-627e5e9a2249.png" width="150">
-```
-Previous orders
-```
+
+Previous orders  
+
 <img src="https://user-images.githubusercontent.com/29239337/94031287-5daa9100-fdc7-11ea-829f-0b6bd1a25b9d.png" width="150">
-```
+
 
 ## Server app
 
