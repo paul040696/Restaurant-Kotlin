@@ -2,7 +2,7 @@
 
 An Android Kotlin app for home delivery solutions.
 
-# Introduction
+## Introduction
 
 This project represents a software app designed to provide a necessary platform for the restaurants and catering services that want to impllement a home delivery service.
 
