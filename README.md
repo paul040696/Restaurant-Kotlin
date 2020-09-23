@@ -6,7 +6,7 @@ The project is divided in 2 sections: client application and server application
 # Client app
 
 The main functionalities of the app are:
-'''
+```
 - login/create account with Firebase Auth using phone number.
 - select product and:
     - view product description and rating
@@ -23,4 +23,4 @@ The main functionalities of the app are:
  - view orders:
     - view details about previous placed orders
     - repeat order 
-'''
+```
