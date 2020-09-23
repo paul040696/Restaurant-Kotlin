@@ -31,7 +31,7 @@ The main functionalities of the app are:
 
 Demo:
 
-<img src="https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png" width="75">
+<img src="https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png" width="150">
 
 
 
