@@ -30,10 +30,7 @@ The main functionalities of the app are:
     - repeat order 
 
 Demo:
-<p align="center">
-  <img src="![cos_cumparaturi](https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png)e" width="350" title="hover text">
-  <img src="![cos_cumparaturi](https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png)" width="350" alt="accessibility text">
-</p>
+![cos_cumparaturi](https://user-images.githubusercontent.com/29239337/94031277-5c796400-fdc7-11ea-8c3f-78a46547948f.png?raw=true)
 
 
 ## Server app
